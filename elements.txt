@@ -1,0 +1,6 @@
+Carbon Dioxide: 95.32%
+Nitrogen = 2.6%
+Argon = 1.9%
+Oxygen = 0.174%
+Carbon Monoxide = 0.0747% 
+Water Vapor = 0.03%"
